@@ -11,7 +11,7 @@ IP_URL=https://invoicep.herokuapp.com/
 ENABLE_DEBUG=false
 
 # Set this setting to 'true' if you want to disable the setup for security purposes
-DISABLE_SETUP=false
+DISABLE_SETUP=true
 
 # To remove index.php from the URL, set this setting to 'true'.
 # Please notice the additional instructions in the htaccess file!
