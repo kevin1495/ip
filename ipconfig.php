@@ -5,13 +5,13 @@
 # Set your URL without trailing slash here, e.g. http://your-domain.com
 # If you use a subdomain, use http://subdomain.your-domain.com
 # If you use a subfolder, use http://your-domain.com/subfolder
-IP_URL=http://127.0.0.1/ip/
+IP_URL=https://invoicep.herokuapp.com/
 
 # Having problems? Enable debug by changing the value to 'true' to enable advanced logging
 ENABLE_DEBUG=false
 
 # Set this setting to 'true' if you want to disable the setup for security purposes
-DISABLE_SETUP=true
+DISABLE_SETUP=false
 
 # To remove index.php from the URL, set this setting to 'true'.
 # Please notice the additional instructions in the htaccess file!
